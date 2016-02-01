@@ -21,6 +21,9 @@
 * insert_MongoDB.py - reads all the JSON files from a folder and populates a MongoDB
 * insert_MongoDB_run.sh - bash script to help run insert_MongoDB.py 
 
+### GreenHouses
+* Netbeans Java project for working with the Oracle Analytics Package, needs Oracle JDBC
+
 ### Python Packages
 * pip install -U sqlite3
 * pip install -U json
